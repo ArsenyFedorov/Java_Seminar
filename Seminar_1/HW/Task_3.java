@@ -9,7 +9,7 @@ public class Task_3 {
             System.out.printf("Ввидите первое значение:");
             int num_1 = scanner.nextInt();
             System.out.printf("Ввидите второе значение:");
-            int num_2 = scanner.nextInt();
+            float num_2 = scanner.nextFloat();
             System.out.printf("Ввидите действие:");
             String  act = scanner.next();
             switch (act){
